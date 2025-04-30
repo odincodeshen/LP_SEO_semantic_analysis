@@ -1,0 +1,5 @@
+
+https://learn.arm.com/learning-paths/embedded-and-microcontrollers/llama-python-cpu/
+https://learn.arm.com/learning-paths/servers-and-cloud-computing/funasr/
+https://learn.arm.com/learning-paths/automotive/openadkit1_container
+

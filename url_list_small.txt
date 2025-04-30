@@ -1,0 +1,1 @@
+https://learn.arm.com/learning-paths/embedded-and-microcontrollers/llama-python-cpu/
