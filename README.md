@@ -262,3 +262,7 @@ https://example.com,85,90,80,85,1.23,2,3,"Missing meta description; Multiple H1 
   - time
   - re
   - urllib.parse
+
+
+## 9. References
+https://dev.to/resource_bunk_1077cab07da/power-of-deepseek-ai-for-seo-keyword-research-5ddn
